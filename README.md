@@ -1,1 +1,1 @@
-$ Mi primer Examen de algoritmos -> Prueba 
+$ Mi primer Examen de algoritmos
